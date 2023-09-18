@@ -7,7 +7,7 @@ import requests
 # image = Image.open(requests.get(url, stream=True).raw).convert("RGB")
 
 # Specify the file path of the image
-file_path = 'eurotext.png'
+file_path = 'img1.png'
 
 # Open the image and convert it to RGB mode
 image = Image.open(file_path).convert("RGB")
