@@ -1,0 +1,2 @@
+git lfs install
+git clone https://huggingface.co/spaces/kneelesh48/Tesseract-OCR
